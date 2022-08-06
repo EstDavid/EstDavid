@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey there, this is David 👋
+
+I have been in the crypto space since early 2018 as an investor and a trader.
+
+In 2021 I took my interest for crypto to a new level and became a blockchain developer.
+
+I'm currently finishing the latest projects I have been working on, while I start applying to job in the blockchain development industry.
+
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstDavid)](https://github.com/EstDavid/github-readme-stats)
+
 
 <!--
 **EstDavid/EstDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
