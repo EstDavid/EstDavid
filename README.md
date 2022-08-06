@@ -6,6 +6,15 @@ In 2021 I took my interest for crypto to a new level and became a blockchain dev
 
 I'm currently finishing the latest projects I have been working on, while I start applying to job in the blockchain development industry.
 
+## Projects
+### Dolphinance
+Exchange Dapp with its own ERC-20 token, deployed on the Rinkeby network.
+Dolphinance is an exchange Dapp based on the capstone project from the Dapp University Blockchain Developer Bootcamp.
+The dapp allows buying and selling the native token of the exchange, deposits and withdrawals, placing limit orders and tracking token price.
+
+<img src="/EstDavid/images/dolphinance.src" alt="Dolphinance screenshot" height="60px" width="auto" />
+
+
 ## Skills
 ### Languages
 + <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" alt="Solidity logo" height="20px" width="auto" filter="invert" /> Solidity
