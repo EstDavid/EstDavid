@@ -1,18 +1,43 @@
 ### Hey there, this is David 👋
 
-I have been in the crypto space since early 2018 as an investor and a trader.
+In 2021 I took my interest for crypto to a new level and became a blockchain developer, after being in the crypto space since early 2018 as an investor and a trader.
 
-In 2021 I took my interest for crypto to a new level and became a blockchain developer.
-
-I'm currently finishing the latest projects I have been working on, while I start applying to job in the blockchain development industry.
+I'm currently finishing the latest projects I was working on as I embarked on the journey of blockchain development.
 
 ## Projects
-### Dolphinance
-Exchange Dapp with its own ERC-20 token, deployed on the Rinkeby network.
-Dolphinance is an exchange Dapp based on the capstone project from the Dapp University Blockchain Developer Bootcamp.
-The dapp allows buying and selling the native token of the exchange, deposits and withdrawals, placing limit orders and tracking token price.
+### [Dolphinance](http://dlp-token-exchange.herokuapp.com/ "Dolphinance live demo")
+<span>Exchange Dapp with its own ERC-20 token</span>
 
-<img src="/EstDavid/images/dolphinance.src" alt="Dolphinance screenshot" height="60px" width="auto" />
+<span>Both corresponding smart contracts are deployed on the Rinkeby network <a 
+    href="https://rinkeby.etherscan.io/address/0x6723e472b9de9b329f344aa6c8dc80e67db92de8" target="_blank" rel="noreferrer noopener" >here (Dapp)
+    </a> and <a 
+    href="https://rinkeby.etherscan.io/address/0x664c8fcf50a588d3208c729362685ea911522198" target="_blank" rel="noreferrer noopener" >here (ERC-20 token)</a></span>
+
+<span>Dolphinance is an exchange Dapp based on the capstone project from the <a 
+    href="https://www.dappuniversity.com/" target="_blank" rel="noreferrer noopener" >
+    Dapp University</a> Blockchain Developer Bootcamp</span>
+
+<span>The dapp allows <strong>buying and selling</strong> the native token of the exchange, <strong>deposits and withdrawals</strong>
+<strong>placing limit orders</strong> and tracking token price</span>
+
+[<img src="./images/dolphinance.png" alt="Dolphinance screenshot" height="320px" width="auto" />](http://dlp-token-exchange.herokuapp.com/ "Dolphinance live demo")
+
+View repository [here](https://github.com/EstDavid/DappExchange "Dolphinance github repository")
+
+
+### [Unicharts](http://uniswapv3-charts.herokuapp.com/ "UniCharts live demo")
+Charting app that reads price data from Uniswap V3 pools. 
+
+The app is composed of a frontend and a backend. The backend retrieves data from Uniswap V3 pools and stores it on a database.
+The frontend reads the historical price data from the database and generates the charts
+It features easy search of coin pairs, visualization of charts in different timeframes and use of EMA and SMA averages
+
+
+[<img src="./images/uniCharts.png" alt="UniCharts Screenshot" height="320px" width="auto" />](http://dlp-token-exchange.herokuapp.com/ "Dolphinance live demo")
+
+View frontend repository [here](https://github.com/EstDavid/uniswapv3-charts "Unicharts frontend github repository")
+
+View backend repository [here](https://github.com/EstDavid/UniswapV3OracleReader "Unicharts backend github repository")
 
 
 ## Skills
