@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="./images/githubProfile.png" width="200" style="border-radius:50%;"/>
     <div id="badges">
-        <a href="https://www.linkedin.com/in/david-de-esteban">
+        <a href="https://www.linkedin.com/in/david-de-esteban" target="_blank" rel="noreferrer noopener">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
     </div>
