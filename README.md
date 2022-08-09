@@ -1,3 +1,12 @@
+<div id="header" align="center">
+    <img src="./images/githubProfile.png" width="200" style="border-radius:50%;"/>
+    <div id="badges">
+        <a href="https://www.linkedin.com/in/david-de-esteban">
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+    </div>
+</div>
+
 ### Hey there, this is David 👋
 
 In 2021 I took my interest for crypto to a new level and became a blockchain developer, after being in the crypto space since early 2018 as an investor and a trader.
