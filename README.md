@@ -27,6 +27,7 @@ I'm currently finishing the latest projects I was working on as I embarked on th
 <span>        
 The app displays the historic output from the trading bot scanner module and allows to search and filter past potential trades, according to criteria such as profitability, date, token or exchange 
 </span>
+<br></br>
 
 [<img src="./images/deltaRadar.png" alt="Delta Radar screenshot" height="320px" width="auto" />](http://delta-radar.herokuapp.com/ "Delta Radar live demo")
 
@@ -47,6 +48,7 @@ View repository [here](https://github.com/EstDavid/delta-radar "Delta Radar gith
 
 <span>The dapp allows <strong>buying and selling</strong> the native token of the exchange, <strong>deposits and withdrawals</strong>
 <strong>placing limit orders</strong> and tracking token price</span>
+<br></br>
 
 [<img src="./images/dolphinance.png" alt="Dolphinance screenshot" height="320px" width="auto" />](http://dlp-token-exchange.herokuapp.com/ "Dolphinance live demo")
 
