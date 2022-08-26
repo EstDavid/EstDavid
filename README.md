@@ -35,7 +35,7 @@ View repository [here](https://github.com/EstDavid/delta-radar "Delta Radar gith
 
 
 ### [Dolphinance](http://dlp-token-exchange.herokuapp.com/ "Dolphinance live demo")
-<span>Exchange Dapp with its own ERC-20 token</span>
+<h3>Exchange Dapp with its own ERC-20 token</h3>
 
 <span>Both corresponding smart contracts are deployed on the Rinkeby network <a 
     href="https://rinkeby.etherscan.io/address/0x6723e472b9de9b329f344aa6c8dc80e67db92de8" target="_blank" rel="noreferrer noopener" >here (Dapp)
@@ -56,7 +56,7 @@ View repository [here](https://github.com/EstDavid/DappExchange "Dolphinance git
 
 
 ### [Unicharts](http://uniswapv3-charts.herokuapp.com/ "UniCharts live demo")
-Charting app that reads price data from Uniswap V3 pools. 
+<h3>Charting app that reads price data from Uniswap V3 pools</h3>
 
 The app is composed of a frontend and a backend. The backend retrieves data from Uniswap V3 pools and stores it on a database.
 The frontend reads the historical price data from the database and generates the charts
