@@ -14,6 +14,25 @@ In 2021 I took my interest for crypto to a new level and became a blockchain dev
 I'm currently finishing the latest projects I was working on as I embarked on the journey of blockchain development.
 
 ## Projects
+### [Delta Radar](http://delta-radar.herokuapp.com/ "Delta Radar live demo")
+<h3>Web featuring the best potential trades of a Defi trading bot</h3>
+<span>Delta Radar is a frontend app which shows potential profitable arbitrage trades accross different token pools in Decentralized Exchanges (DEX)</span>
+<span>This frontend is a <strong>small part of a broader project</strong> which is aimed at creating a <strong>trading bot</strong> capable of:</span>
+<ul className="list-group list-group-flush">
+    <li className="list-group-item">Scanning token pools accross different DEXs</li>
+    <li className="list-group-item">Finding price differences which yield a profit</li>
+    <li className="list-group-item">Calculating the optimum amount of the first token in the trade sequence</li>
+    <li className="list-group-item">Triggering a smart contract with flash loan capabilities which attempts to catch the potential profit</li>
+</ul>
+<span>        
+The app displays the historic output from the trading bot scanner module and allows to search and filter past potential trades, according to criteria such as profitability, date, token or exchange 
+</span>
+
+[<img src="./images/deltaRadar.png" alt="Delta Radar screenshot" height="320px" width="auto" />](http://delta-radar.herokuapp.com/ "Delta Radar live demo")
+
+View repository [here](https://github.com/EstDavid/delta-radar "Delta Radar github repository")
+
+
 ### [Dolphinance](http://dlp-token-exchange.herokuapp.com/ "Dolphinance live demo")
 <span>Exchange Dapp with its own ERC-20 token</span>
 
