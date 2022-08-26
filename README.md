@@ -91,6 +91,7 @@ View backend repository [here](https://github.com/EstDavid/UniswapV3OracleReader
 
 ### Blockchain related
 + Truffle and Ganache
++ Deployment to Mainnet
 + Hardhat
 + Ether.js
 + Flash swaps
