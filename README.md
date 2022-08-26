@@ -29,7 +29,11 @@ The app displays the historic output from the trading bot scanner module and all
 </span>
 <br></br>
 
-[<img src="./images/deltaRadar.png" alt="Delta Radar screenshot" height="320px" width="auto" />](http://delta-radar.herokuapp.com/ "Delta Radar live demo")
+<a href="http://delta-radar.herokuapp.com/" target="_blank" rel="noreferrer noopener">
+    <img src="./images/deltaRadar.png" alt="Delta Radar screenshot" height="320px" width="auto" />
+</a>
+
+View live demo [here](http://delta-radar.herokuapp.com/ "Delta Radar live demo")
 
 View repository [here](https://github.com/EstDavid/delta-radar "Delta Radar github repository")
 
@@ -50,7 +54,11 @@ View repository [here](https://github.com/EstDavid/delta-radar "Delta Radar gith
 <strong>placing limit orders</strong> and tracking token price</span>
 <br></br>
 
-[<img src="./images/dolphinance.png" alt="Dolphinance screenshot" height="320px" width="auto" />](http://dlp-token-exchange.herokuapp.com/ "Dolphinance live demo")
+<a href="http://dlp-token-exchange.herokuapp.com/" target="_blank" rel="noreferrer noopener">
+    <img src="./images/dolphinance.png" alt="Dolphinance screenshot" height="320px" width="auto" />
+</a>
+
+View live demo [here](http://dlp-token-exchange.herokuapp.com/ "Dolphinance live demo")
 
 View repository [here](https://github.com/EstDavid/DappExchange "Dolphinance github repository")
 
@@ -63,7 +71,11 @@ The frontend reads the historical price data from the database and generates the
 It features easy search of coin pairs, visualization of charts in different timeframes and use of EMA and SMA averages
 
 
-[<img src="./images/uniCharts.png" alt="UniCharts Screenshot" height="320px" width="auto" />](http://dlp-token-exchange.herokuapp.com/ "Dolphinance live demo")
+<a href="http://uniswapv3-charts.herokuapp.com/" target="_blank" rel="noreferrer noopener">
+    <img src="./images/uniCharts.png" alt="UniCharts screenshot" height="320px" width="auto" />
+</a>
+
+View live demo [here](http://uniswapv3-charts.herokuapp.com/ "UniCharts live demo")
 
 View frontend repository [here](https://github.com/EstDavid/uniswapv3-charts "Unicharts frontend github repository")
 
