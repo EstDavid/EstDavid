@@ -9,12 +9,31 @@
 
 ### Hey there, this is David 👋
 
-In 2021 I took my interest for crypto to a new level and became a blockchain developer, after being in the crypto space since early 2018 as an investor and a trader.
+My name is David, and I come from a background as Mechanical Engineer designing and calculating systems for trains and locomotives.
 
-I'm currently finishing the latest projects I was working on as I embarked on the journey of blockchain development.
+<img src="./images/driversDesk.png" alt="Locomotive Driver's Desk" height="240px" width="auto" />
+<img src="./images/finiteElements.png" alt="Finite Element Analysis of a wheel" height="240px" width="auto" />
+
+I began to learn coding in the beginning of 2021. My initial focus was on Blockchain and learning to code smart contracts on Solidity.
+
+The need to showcase my projects brought me to learn Frontend and Fullstack, and made me realize that I really enjoy this area of software development.
 
 ## Projects
-### [Delta Radar](http://delta-radar.herokuapp.com/ "Delta Radar live demo")
+
+### [Pura Vida App](https://github.com/EstDavid/pura-vida-app 'Pura Vida App Github Repository') (Work in Progress)
+
+<h3>App for planning your activities in a Spiritual Festival</h3>
+<span>There can be lots of very enriching and transforming activities and events to attend at a Spiritual Festival
+This App allows you to choose an plan your activities, get around the different areas, find the healers you will visit.
+It stores the information in the phone's local storage so you don't have to worry about poor internet connections
+</span>
+<br></br>
+<a href="https://github.com/EstDavid/pura-vida-app" target="_blank" rel="noreferrer noopener">
+    <img src="./images/projectPuraVida.jpg" alt="Pura Vida App screenshot" height="320px" width="auto" />
+</a>
+
+### [Delta Radar](http://delta-radar.herokuapp.com/ 'Delta Radar live demo')
+
 <h3>Web featuring the best potential trades of a Defi trading bot</h3>
 <span>Delta Radar is a frontend app which shows potential profitable arbitrage trades accross different token pools in Decentralized Exchanges (DEX)</span>
 <span>This frontend is a <strong>small part of a broader project</strong> which is aimed at creating a <strong>trading bot</strong> capable of:</span>
@@ -33,22 +52,22 @@ The app displays the historic output from the trading bot scanner module and all
     <img src="./images/deltaRadar.png" alt="Delta Radar screenshot" height="320px" width="auto" />
 </a>
 
-View live demo [here](http://delta-radar.herokuapp.com/ "Delta Radar live demo")
+View live demo [here](http://delta-radar.herokuapp.com/ 'Delta Radar live demo')
 
-View repository [here](https://github.com/EstDavid/delta-radar "Delta Radar github repository")
+View repository [here](https://github.com/EstDavid/delta-radar 'Delta Radar github repository')
 
+### [Dolphinance](http://dlp-token-exchange.herokuapp.com/ 'Dolphinance live demo')
 
-### [Dolphinance](http://dlp-token-exchange.herokuapp.com/ "Dolphinance live demo")
 <h3>Exchange Dapp with its own ERC-20 token</h3>
 
 <span>Both corresponding smart contracts are deployed on the Rinkeby network <a 
     href="https://rinkeby.etherscan.io/address/0x6723e472b9de9b329f344aa6c8dc80e67db92de8" target="_blank" rel="noreferrer noopener" >here (Dapp)
-    </a> and <a 
+</a> and <a 
     href="https://rinkeby.etherscan.io/address/0x664c8fcf50a588d3208c729362685ea911522198" target="_blank" rel="noreferrer noopener" >here (ERC-20 token)</a></span>
 
 <span>Dolphinance is an exchange Dapp based on the capstone project from the <a 
     href="https://www.dappuniversity.com/" target="_blank" rel="noreferrer noopener" >
-    Dapp University</a> Blockchain Developer Bootcamp</span>
+Dapp University</a> Blockchain Developer Bootcamp</span>
 
 <span>The dapp allows <strong>buying and selling</strong> the native token of the exchange, <strong>deposits and withdrawals</strong>
 <strong>placing limit orders</strong> and tracking token price</span>
@@ -58,59 +77,57 @@ View repository [here](https://github.com/EstDavid/delta-radar "Delta Radar gith
     <img src="./images/dolphinance.png" alt="Dolphinance screenshot" height="320px" width="auto" />
 </a>
 
-View live demo [here](http://dlp-token-exchange.herokuapp.com/ "Dolphinance live demo")
+View live demo [here](http://dlp-token-exchange.herokuapp.com/ 'Dolphinance live demo')
 
-View repository [here](https://github.com/EstDavid/DappExchange "Dolphinance github repository")
+View repository [here](https://github.com/EstDavid/DappExchange 'Dolphinance github repository')
 
+### [Unicharts](http://uniswapv3-charts.herokuapp.com/ 'UniCharts live demo')
 
-### [Unicharts](http://uniswapv3-charts.herokuapp.com/ "UniCharts live demo")
 <h3>Charting app that reads price data from Uniswap V3 pools</h3>
 
 The app is composed of a frontend and a backend. The backend retrieves data from Uniswap V3 pools and stores it on a database.
 The frontend reads the historical price data from the database and generates the charts
 It features easy search of coin pairs, visualization of charts in different timeframes and use of EMA and SMA averages
 
-
 <a href="http://uniswapv3-charts.herokuapp.com/" target="_blank" rel="noreferrer noopener">
     <img src="./images/uniCharts.png" alt="UniCharts screenshot" height="320px" width="auto" />
 </a>
 
-View live demo [here](http://uniswapv3-charts.herokuapp.com/ "UniCharts live demo")
+View live demo [here](http://uniswapv3-charts.herokuapp.com/ 'UniCharts live demo')
 
-View frontend repository [here](https://github.com/EstDavid/uniswapv3-charts "Unicharts frontend github repository")
+View frontend repository [here](https://github.com/EstDavid/uniswapv3-charts 'Unicharts frontend github repository')
 
-View backend repository [here](https://github.com/EstDavid/UniswapV3OracleReader "Unicharts backend github repository")
-
+View backend repository [here](https://github.com/EstDavid/UniswapV3OracleReader 'Unicharts backend github repository')
 
 ## Skills
+
 ### Languages
-+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" alt="Solidity logo" height="20px" width="auto" filter="invert" /> Solidity
-+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript logo" height="20px" width="auto" /> Javascript
-+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" height="20px" width="auto" /> Python
-+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript logo" height="20px" width="auto" /> Typescript
+
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" alt="Solidity logo" height="20px" width="auto" filter="invert" /> Solidity
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript logo" height="20px" width="auto" /> Javascript
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python logo" height="20px" width="auto" /> Python
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript logo" height="20px" width="auto" /> Typescript
 
 ### Blockchain related
-+ Truffle and Ganache
-+ Deployment to Mainnet
-+ Hardhat
-+ Ether.js
-+ Flash swaps
-+ Trading bots
-+ NFTs
+
+-   Truffle and Ganache
+-   Deployment to Mainnet
+-   Hardhat
+-   Ether.js
+-   Flash swaps
+-   Trading bots
+-   NFTs
 
 ### Frameworks and tools
-+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" height="20px" width="auto" /> React
-+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="React logo" height="20px" width="auto" /> Redux 
-+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js logo" height="20px" width="auto" /> Node.js 
-+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" height="20px" width="auto" /> Bootstrap
-+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git logo" height="20px" width="auto" /> Git
-+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vs Code logo" height="20px" width="auto" /> VS Code
 
-
-          
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React logo" height="20px" width="auto" /> React
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="React logo" height="20px" width="auto" /> Redux
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js logo" height="20px" width="auto" /> Node.js
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap logo" height="20px" width="auto" /> Bootstrap
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git logo" height="20px" width="auto" /> Git
+-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vs Code logo" height="20px" width="auto" /> VS Code
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstDavid)](https://github.com/EstDavid/github-readme-stats)
-
 
 <!--
 **EstDavid/EstDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
