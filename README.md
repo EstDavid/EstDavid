@@ -11,8 +11,8 @@
 
 My name is David, and I come from a background as Mechanical Engineer designing and calculating systems for trains and locomotives.
 
-<img src="./images/driversDesk.png" alt="Locomotive Driver's Desk" height="240px" width="auto" />
-<img src="./images/finiteElements.png" alt="Finite Element Analysis of a wheel" height="240px" width="auto" />
+<img src="./images/driversDesk.png" alt="Locomotive Driver's Desk" width="240px" height="auto" />
+<img src="./images/finiteElements.png" alt="Finite Element Analysis of a wheel" width="240px" height="auto" />
 
 I began to learn coding in the beginning of 2021. My initial focus was on Blockchain and learning to code smart contracts on Solidity.
 
