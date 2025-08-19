@@ -73,7 +73,7 @@ Mechanical Engineer turned Full-Stack Developer with 3+ years building scalable 
         <a 
         style="grid-column-start: span 3"
         href="https://www.popinhome.com/en/homes/74" target="_blank" rel="noreferrer noopener">
-            <img src="./images/pop-in-home-surf-house.png" alt="Screenshot of Pop In Home Web App" width="100%" width="auto" />
+            <img src="./images/pop-in-home-surf-house.png" alt="Screenshot of Pop In Home Web App" width="600px" width="auto" />
         </a>
     </div>
 </div>
