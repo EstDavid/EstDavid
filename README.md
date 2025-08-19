@@ -49,32 +49,32 @@ Mechanical Engineer turned Full-Stack Developer with 3+ years building scalable 
         </a>
     </div>
     <div style="display: grid; grid-template-columns: repeat(6, 1fr [col-start]); column-gap: 20px; width: 100%;">
+        <div style="grid-column-start: 4; grid-column-end: 7;">
+            <p>The app is supported by an admin panel which streamlines the process of feeding data into the app.</p>
+            <p>My role in this project has covered, among others, the following tasks:</p>
+            <ul>
+                <li>
+                    Built <strong>admin panel from scratch</strong> with scalable architecture patterns
+                </li>
+                <li>
+                    Integrated <strong>AI chat functionality</strong> for automated property reports (architecture, design, engineering)
+                </li>
+                <li>
+                    Implemented <strong>Stripe payment processing</strong> for seamless transactions
+                </li>
+                <li>
+                    Developed <strong>comprehensive test suite</strong> ensuring 95%+ code coverage
+                </li>
+                <li>
+                    Collaborated across <strong>full-stack teams</strong> bringing Figma designs to production
+                </li>
+            </ul>
+        </div>
         <a 
         style="grid-column-start: span 3"
         href="https://www.popinhome.com/en/homes/74" target="_blank" rel="noreferrer noopener">
             <img src="./images/pop-in-home-surf-house.png" alt="Screenshot of Pop In Home Web App" width="100%" width="auto" />
         </a>
-        <div style="grid-column-start: 4; grid-column-end: 7;">
-        <p>The app is supported by an admin panel which streamlines the process of feeding data into the app.</p>
-        <p>My role in this project has covered, among others, the following tasks:</p>
-        <ul>
-            <li>
-                Built <strong>admin panel from scratch</strong> with scalable architecture patterns
-            </li>
-            <li>
-                Integrated <strong>AI chat functionality</strong> for automated property reports (architecture, design, engineering)
-            </li>
-            <li>
-                Implemented <strong>Stripe payment processing</strong> for seamless transactions
-            </li>
-            <li>
-                Developed <strong>comprehensive test suite</strong> ensuring 95%+ code coverage
-            </li>
-            <li>
-                Collaborated across <strong>full-stack teams</strong> bringing Figma designs to production
-            </li>
-        </ul>
-        </div>
     </div>
 </div>
 </br> 
